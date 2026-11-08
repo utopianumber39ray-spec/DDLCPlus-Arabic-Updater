@@ -7,13 +7,7 @@ $files = @(
   'Doki Doki Literature Club Plus_Data\Managed\DDLC.dll',
   'Doki Doki Literature Club Plus_Data\Managed\TextTypewriterEffect.dll',
   'Doki Doki Literature Club Plus_Data\Managed\ArabicShaper.dll',
-  'Doki Doki Literature Club Plus_Data\Managed\Unity.TextMeshPro.dll',
-  'Doki Doki Literature Club Plus_Data\sharedassets1.assets',
-  'Doki Doki Literature Club Plus_Data\sharedassets2.assets',
-  'Doki Doki Literature Club Plus_Data\resources.assets',
-  'Doki Doki Literature Club Plus_Data\StreamingAssets\AssetBundles\Windows\langar.cy',
-  'Doki Doki Literature Club Plus_Data\StreamingAssets\AssetBundles\Windows\gui.cy',
-  'Doki Doki Literature Club Plus_Data\StreamingAssets\AssetBundles\Windows\supportedlanguages.cy'
+  'Doki Doki Literature Club Plus_Data\Managed\Unity.TextMeshPro.dll'
 )
 
 if (-not (Test-Path -LiteralPath $src)) {
