@@ -1,4 +1,4 @@
-2169f350029b22741e0a3bd1f8a4b0a3fbd76093517daf51daa3a269e21d7f85  files/Doki Doki Literature Club Plus_Data/Managed/ArabicShaper.dll
+2344cf3a1f85170fbd92f324d480470273bc16e1324389d7dc139f4b8b37bb3d  files/Doki Doki Literature Club Plus_Data/Managed/ArabicShaper.dll
 9b354df81e2903b7c7ac30a67e4af20d819ecba6971328c6d72239900ab49475  files/Doki Doki Literature Club Plus_Data/Managed/DDLC.dll
 84036a6140e05cef0d9f554d757be2beba2ad10a7c8ad84c85edcd71129461bf  files/Doki Doki Literature Club Plus_Data/Managed/TextTypewriterEffect.dll
 d1b1c2014aaa67bef23861b3828fb19486d3b74a7c0491b778f598415a0e361d  files/Doki Doki Literature Club Plus_Data/Managed/Unity.TextMeshPro.dll
