@@ -5,9 +5,10 @@ $src = Join-Path $root 'files'
 $exeName = 'Doki Doki Literature Club Plus.exe'
 $files = @(
   'Doki Doki Literature Club Plus_Data\Managed\DDLC.dll',
-  'Doki Doki Literature Club Plus_Data\Managed\TextTypewriterEffect.dll',
-  'Doki Doki Literature Club Plus_Data\Managed\ArabicShaper.dll',
-  'Doki Doki Literature Club Plus_Data\Managed\Unity.TextMeshPro.dll'
+  'Doki Doki Literature Club Plus_Data\Managed\ArabicOutlineFix.dll',
+  'Doki Doki Literature Club Plus_Data\StreamingAssets\AssetBundles\Windows\langar.cy',
+  'Doki Doki Literature Club Plus_Data\level2',
+  'Doki Doki Literature Club Plus_Data\sharedassets2.assets'
 )
 
 if (-not (Test-Path -LiteralPath $src)) {
